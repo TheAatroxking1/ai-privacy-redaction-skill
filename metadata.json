@@ -1,0 +1,29 @@
+{
+  "slug": "ai-privacy-redaction-skill",
+  "title": "AI Privacy Redaction Skill",
+  "summary": "帮助用户在把日志、会议记录、客服文本或提示词交给 AI 前，先识别并脱敏 secrets、PII 和敏感上下文。",
+  "tags": [
+    "privacy",
+    "redaction",
+    "ai-safety",
+    "codex-skill"
+  ],
+  "sources": [
+    {
+      "title": "NIST Privacy Framework",
+      "url": "https://www.nist.gov/privacy-framework",
+      "credibility": 0.9
+    },
+    {
+      "title": "Microsoft Presidio documentation",
+      "url": "https://microsoft.github.io/presidio/",
+      "credibility": 0.85
+    },
+    {
+      "title": "GitHub secret scanning documentation",
+      "url": "https://docs.github.com/en/code-security/secret-scanning",
+      "credibility": 0.9
+    }
+  ],
+  "score": 92.5
+}
